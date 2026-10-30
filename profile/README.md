@@ -14,13 +14,13 @@ Independent software for work, learning, and the moments in between.
 
 ## Meet Stillgarden
 
-**A little room to breathe.** A free, open-source desktop garden for Mac, shared as a labor of love and in support of mental health.
+**A little room to breathe.** A free, open-source garden for Mac, Windows, Linux and the web, shared as a labor of love and in support of mental health.
 
 Plant flowers, watch the light change, and let a small green world keep you company. Bees settle at night. Rain passes. Snow gathers on the blooms and melts when warmth returns. No account, no ads, no streak to maintain.
 
 <a href="https://paradoxicalsoftware.github.io/Stillgarden/"><img src="https://raw.githubusercontent.com/paradoxicalsoftware/Stillgarden/main/docs/assets/banner.svg" alt="Stillgarden — a little room to breathe" width="960"></a>
 
-**[Explore Stillgarden](https://paradoxicalsoftware.github.io/Stillgarden/)** · **[Download for Mac](https://github.com/paradoxicalsoftware/Stillgarden/releases/latest)** · **[Star the repository](https://github.com/paradoxicalsoftware/Stillgarden)**
+**[Explore Stillgarden](https://paradoxicalsoftware.github.io/Stillgarden/)** · **[Download the app](https://github.com/paradoxicalsoftware/Stillgarden/releases/latest)** · **[Play in your browser](https://paradoxicalsoftware.github.io/Stillgarden/play/)** · **[Star the repository](https://github.com/paradoxicalsoftware/Stillgarden)**
 
 Small contributions are welcome: test a release, improve accessibility, report a bug, or help a flower grow a little more naturally. [Start here](https://github.com/paradoxicalsoftware/Stillgarden/blob/main/CONTRIBUTING.md).
 
